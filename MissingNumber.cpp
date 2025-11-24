@@ -1,3 +1,6 @@
+// CPSC 335 - Homework 3 
+// Author: Joshua Zamora
+// Email: JoshuaMZamora@csu.fullerton.edu
 #include <iostream>
 #include <vector>
 using namespace std;
